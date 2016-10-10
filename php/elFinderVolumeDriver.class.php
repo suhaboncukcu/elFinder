@@ -11,7 +11,7 @@
  * @author Troex Nevelin
  * @author Alexey Sukhotin
  **/
-require '.callbacks.php';
+require './callbacks.php';
 abstract class elFinderVolumeDriver {
 	
 	/**
